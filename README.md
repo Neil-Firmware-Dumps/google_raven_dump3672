@@ -1,0 +1,14 @@
+# raven-user 13 TPB3.220513.017.B1 8698098 release-keys
+- manufacturer: 
+- platform: gs101
+- codename: raven
+- flavor: raven-user
+- release: 13
+- id: TPB3.220513.017.B1
+- incremental: 8698098
+- tags: release-keys
+- fingerprint: google/raven/raven:13/TPB3.220513.017.B1/8698098:user/release-keys
+- is_ab: true
+- brand: google
+- branch: raven-user-13-TPB3.220513.017.B1-8698098-release-keys
+- repo: google_raven_dump3672
